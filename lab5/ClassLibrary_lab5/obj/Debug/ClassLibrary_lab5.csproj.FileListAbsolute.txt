@@ -1,0 +1,6 @@
+I:\Новая папка\БКиТ\lab5\ClassLibrary_lab5\bin\Debug\ClassLibrary_lab5.dll
+I:\Новая папка\БКиТ\lab5\ClassLibrary_lab5\bin\Debug\ClassLibrary_lab5.pdb
+I:\Новая папка\БКиТ\lab5\ClassLibrary_lab5\obj\Debug\ClassLibrary_lab5.csprojResolveAssemblyReference.cache
+I:\Новая папка\БКиТ\lab5\ClassLibrary_lab5\obj\Debug\ClassLibrary_lab5.csproj.CoreCompileInputs.cache
+I:\Новая папка\БКиТ\lab5\ClassLibrary_lab5\obj\Debug\ClassLibrary_lab5.dll
+I:\Новая папка\БКиТ\lab5\ClassLibrary_lab5\obj\Debug\ClassLibrary_lab5.pdb

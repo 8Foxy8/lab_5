@@ -1,0 +1,17 @@
+I:\Новая папка\БКиТ\lab5\lab5\bin\Debug\lab5.exe.config
+I:\Новая папка\БКиТ\lab5\lab5\bin\Debug\lab5.exe
+I:\Новая папка\БКиТ\lab5\lab5\bin\Debug\lab5.pdb
+I:\Новая папка\БКиТ\lab5\lab5\bin\Debug\ClassLibrary_lab5.dll
+I:\Новая папка\БКиТ\lab5\lab5\bin\Debug\ClassLibrary_lab5.pdb
+I:\Новая папка\БКиТ\lab5\lab5\obj\Debug\lab5.csprojResolveAssemblyReference.cache
+I:\Новая папка\БКиТ\lab5\lab5\obj\Debug\MainWindow.g.cs
+I:\Новая папка\БКиТ\lab5\lab5\obj\Debug\App.g.cs
+I:\Новая папка\БКиТ\lab5\lab5\obj\Debug\lab5_MarkupCompile.cache
+I:\Новая папка\БКиТ\lab5\lab5\obj\Debug\lab5_MarkupCompile.lref
+I:\Новая папка\БКиТ\lab5\lab5\obj\Debug\MainWindow.baml
+I:\Новая папка\БКиТ\lab5\lab5\obj\Debug\lab5.g.resources
+I:\Новая папка\БКиТ\lab5\lab5\obj\Debug\lab5.Properties.Resources.resources
+I:\Новая папка\БКиТ\lab5\lab5\obj\Debug\lab5.csproj.GenerateResource.Cache
+I:\Новая папка\БКиТ\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+I:\Новая папка\БКиТ\lab5\lab5\obj\Debug\lab5.exe
+I:\Новая папка\БКиТ\lab5\lab5\obj\Debug\lab5.pdb
